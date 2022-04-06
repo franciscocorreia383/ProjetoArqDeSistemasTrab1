@@ -32,7 +32,7 @@ Para realizar a instação desse projeto são necessários
 
 - Download e instalação do [Insomnia](https://insomnia.rest/download) (Ou de preferencia).
 
-- [Download](https://github.com/franciscocorreia383/ProjetoArqDeSistemasTrab1) do desse repositório.
+- [Download](https://github.com/franciscocorreia383/ProjetoArqDeSistemasTrab1/archive/refs/heads/main.zip) do desse repositório.
 
 <hr/>
 
